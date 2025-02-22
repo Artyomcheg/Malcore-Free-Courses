@@ -55,7 +55,7 @@ The issues are descriptive and provide a good understanding of what's wrong with
 
 # Syntax and Structures
 
-Now that you actually know what C we is should get into the basics of syntax and data structures. We will go through a breakdown of the syntax:
+Now that you actually know what C is, we should get into the basics of syntax and data structures. We will go through a breakdown of the syntax:
 
 - Comments:
   - Single line comment example:
